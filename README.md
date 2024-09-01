@@ -105,7 +105,7 @@ Check out these repositories for more details and visual demos!
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ch3sda&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ch3sda&theme=nightowl%&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hysavuth Chanchedsa!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZkb3Y5b2Zic3hrYzJwNW9vbjhkbGRvYWYybTAxaHg2d2Zud3RlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wnT3OOC1AWzMGKTr1I/giphy.gif" alt="Personalized GIF" style="max-width: 528px; height: 360px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZkb3Y5b2Zic3hrYzJwNW9vbjhkbGRvYWYybTAxaHg2d2Zud3RlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wnT3OOC1AWzMGKTr1I/giphy.gif" alt="Personalized GIF" style="max-width: 528px; height: auto;">
 </p>
 
 I am currently an Information Technology Engineering student at the Royal University of Phnom Penh (RUPP), Cambodia. I am passionate about technology and constantly exploring various fields such as networking, programming, cloud computing, and cybersecurity.

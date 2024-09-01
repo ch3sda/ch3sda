@@ -30,6 +30,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HysavuthChanchesda&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch3sda&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HysavuthChanchesda&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3sda&layout=compact&theme=dark)

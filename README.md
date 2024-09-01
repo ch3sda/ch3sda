@@ -81,7 +81,7 @@ Check out these repositories for more details and visual demos!
 
 ---
 
-## Activity
+## 📈 Activity
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=ch3sda&theme=nightowl&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

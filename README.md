@@ -128,7 +128,7 @@ Feel free to connect with me if you have any questions or if you'd like to colla
 
 Thanks for visiting my profile! Don't forget to check out my repositories below.
 
-[![Visitors Counter](https://visitcount.itsvg.in/api?id=ch3sda&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ch3sda&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 
 <div align="center">

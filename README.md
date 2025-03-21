@@ -11,7 +11,7 @@ I am currently an Information Technology Engineering student at the Royal Univer
 ## 🌟 About Me 
 
 - 🎓 Studying IT Engineering at **RUPP**, Cambodia.
-- 💻 Interested in **networking**, **programming**, **cloud computing**, and **cybersecurity**.
+- 💻 Interested in **programming** and **cybersecurity**.
 - 🚀 Always eager to learn and collaborate on exciting tech projects.
 
 ---

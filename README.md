@@ -32,7 +32,7 @@ Here are some of the certifications and badges I've earned:
   [![AWS Fundamental Cloud Practitioner Badge](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/4dd8d013-e835-4a00-ab28-925a7fc6f75a/public_url)
   [![OPSWAT ICIP](https://images.credly.com/size/110x110/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/6f0799e6-79da-41ce-b1e9-fb521c9a2040/public_url)
   [![ISC2 - Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/4d356680-01ab-4ec3-94c1-e6ac32de3337/public_url)
-  [![Fortinet - Threat Landscape](https://images.credly.com/size/110x110/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/image.png)](https://www.credly.com/badges/fc4753b3-66c8-41c5-9132-ee3c764af3f9/public_url)
+  [![Fortinet - Threat Landscape](https://images.credly.com/size/680x680/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob)](https://www.credly.com/badges/fc4753b3-66c8-41c5-9132-ee3c764af3f9/public_url)
   [![Sala Cyber Certification](https://salacyber.com/media/certs/SNCF.png)](https://salacyber.com/certification/verify/6fa84f03-1683-49c3-ab2e-bf01a8ee660c)
 
 </div>

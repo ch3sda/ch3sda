@@ -33,7 +33,8 @@ Here are some of the certifications and badges I've earned:
   [![OPSWAT ICIP](https://images.credly.com/size/110x110/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/6f0799e6-79da-41ce-b1e9-fb521c9a2040/public_url)
   [![ISC2 - Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/4d356680-01ab-4ec3-94c1-e6ac32de3337/public_url)
   [![Fortinet - Threat Landscape](https://images.credly.com/size/110x110/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob)](https://www.credly.com/badges/fc4753b3-66c8-41c5-9132-ee3c764af3f9/public_url)
-  [![Sala Cyber Certification](https://salacyber.com/media/certs/SNCF.png)](https://salacyber.com/certification/verify/6fa84f03-1683-49c3-ab2e-bf01a8ee660c)
+  [![Fortinet - Getting Start in Cybersecurity](https://images.credly.com/size/110x110/images/26c33174-9fee-4848-88c6-471807995417/blob)](https://www.credly.com/badges/51607ecb-2b7d-4a2b-a8f5-dc224add7b15/public_url)
+  [![Fortinet - Certified Fundamentals Cybersecurity](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/8bed669d-2b68-48d6-87c8-be570ccfcf11/public_url)
 
 </div>
 

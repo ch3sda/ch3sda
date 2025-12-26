@@ -1,15 +1,12 @@
 <!-- ======================= -->
 <!-- 🔥 HERO / INTRO SECTION -->
 <!-- ======================= -->
-<h1 align="center">⚡🕵️‍♂️ Hysavuth Chanchedsa 🕵️‍♂️⚡</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HYSAVUTHCHANCHEDSDA&fontSize=50&reversal=false&animation=blink" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=520&lines=Cybersecurity+Engineer;Red+Predator;Red+Team+Enthusiast;Full-Stack+Developer;Network+Security+Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/wnT3OOC1AWzMGKTr1I/giphy.gif" width="420" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-red?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -36,14 +33,12 @@
 ╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
     [ Recon | Exploit | Persist | Evade | Report ]
 ````
+
 </div>
 
 ---
-
 <!-- ======================= -->
-
-<!-- 🏆 CERTIFICATIONS -->
-
+<!-- 🔥 CERTIFICATION -->
 <!-- ======================= -->
 
 <p align="center">
@@ -61,7 +56,12 @@
 
 ---
 
-## 👨‍💻 0x01 // ABOUT_ME
+<!-- ======================= -->
+<!-- 🔥 ABOUT ME -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=ABOUT%20ME&fontSize=50&reversal=false&fontAlignY=68" width="100%" />
+</p>
 
 ```yaml
 identity:
@@ -78,32 +78,28 @@ identity:
 ```
 
 * 🔭 Red Team & Blue Team hybrid mindset
-* 🎯 ISC2 Path: CC → SSCP → CISSP
 * 📫 Email: [officialchesdamc@gmail.com](mailto:officialchesdamc@gmail.com)
 
 ---
 
-## 🛠️ 0x02 // CYBER_TOOLKIT
-
-### ⚔️ Security • Dev • Cloud • SIEM
+<!-- ======================= -->
+<!-- 🔥 EXPERT TOOLS -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=EXPERT%20TOOLS&fontSize=50&reversal=false&fontAlignY=68" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,aws,docker,python,cpp,java,js,html,css,nuxt,git,github,githubactions,mysql,sqlite&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,arch,anaconda,arduino,debian,aws,docker,python,cpp,c,java,js,html,css,nuxt,git,github,githubactions,mysql,sqlite,linux,burpsuite,wireshark,postman,bash,cloudflare,laravel,php,java,tailwind,vscode,gcp,vue,flutter,dart,django,discord,godot,kotlin,notion,npm,obsidian,php,pinia,powershell,redhat,ruby,stackoverflow,unreal,vim,windows,windicss,vite,vuetify,vitest,visualstudio,&theme=dark" />
 </p>
 
 
----
-
-## 📡 0x03 // NETWORKING_&_OPERATIONS
-
+<!-- ======================= -->
+<!-- 🔥 TRAINING GROUND -->
+<!-- ======================= -->
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,burpsuite,wireshark,postman,bash,cloudflare&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=TRAINING%20GROUND&fontSize=50&reversal=false&fontAlignY=68" width="100%" />
 </p>
-
-
----
-
-## 🧬 0x04 // CTF_WRITEUPS
 
 **Platforms**
 
@@ -126,9 +122,12 @@ identity:
 [ Lessons Learned ]
 ```
 
----
-
-## 📂 0x05 // FEATURED_PROJECT
+<!-- ======================= -->
+<!-- 🔥 FEATURED PROJECT -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=FEATURED%20PROJECT&fontSize=50&reversal=false&fontAlignY=68" width="100%" />
+</p>
 
 ### ⚙️ C2Toolkits Framework
 
@@ -139,12 +138,6 @@ identity:
 * Aggregates Nmap, Gobuster, Nikto, SQLMap
 * Normalizes outputs into structured data
 * Red Team & SOC–ready workflows
-
----
-
-## 🌐 0x06 // LIVE_DASHBOARD (C2TOOLKITS)
-
-> Real-time visualization & analysis of offensive security scans
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nuxt,tailwind,postgres,git,linux" />
@@ -157,9 +150,13 @@ identity:
 * Kill-chain timeline
 * SIEM / SOC-ready structured logs
 
----
 
-## 📊 0x07 // GITHUB_STATS
+<!-- ======================= -->
+<!-- 🔥 GITHUB STATS -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=GITHUB%20STATS&fontSize=50&reversal=false&fontAlignY=68" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ch3sda&show_icons=true&theme=tokyonight&title_color=FF0000&icon_color=FF0000&text_color=c0caf5&bg_color=1a1b26&hide_border=true" 
@@ -175,17 +172,18 @@ identity:
 </p>
 
 
----
-
-## ⚙️ 0x08 // AUTO_UPDATING_METRICS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch3sda&bg_color=1a1b26&color=8A2BE2&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
----
+<!-- ======================= -->
+<!-- 🔥 CONNECT -->
+<!-- ======================= -->
 
-## 🤝 0x09 // CONNECT
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=CONNECT&fontSize=50&reversal=false&fontAlignY=68" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://discord.gg/ch3sda">
@@ -199,12 +197,19 @@ identity:
   </a>
 </p>
 
----
+<!-- ======================= -->
+<!-- 🔥 LAST -->
+<!-- ======================= -->
+
 <p align="center">━━━━━━━━━━ 🔴  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SYSTEM+STATUS%3A+SECURE+🛡️;ENCRYPTION+ACTIVE+🔒;TERMINAL+SESSION+ENDING...;HAPPY+HACKING!+💻" alt="Footer Typing SVG" /> 🔴 ━━━━━━━━━━</p>
 
 <p align="center">
   <sub><strong>Last System Check:</strong> 2025-12-27 | <strong>Authorized Personnel Only</strong></sub><br>
 </p>
+
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/wnT3OOC1AWzMGKTr1I/giphy.gif" width="420" />
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,FF0000,8A2BE2,00D1FF&height=140&section=footer&text=SECURE%20NODE%20-%20CH3SDA&fontSize=30&animation=fadeIn&fontAlignY=70" width="100%" />

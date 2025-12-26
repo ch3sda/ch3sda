@@ -198,4 +198,14 @@ identity:
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-```
+
+---
+<p align="center">━━━━━━━━━━ 🔴  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SYSTEM+STATUS%3A+SECURE+🛡️;ENCRYPTION+ACTIVE+🔒;TERMINAL+SESSION+ENDING...;HAPPY+HACKING!+💻" alt="Footer Typing SVG" /> 🔴 ━━━━━━━━━━</p>
+
+<p align="center">
+  <sub><strong>Last System Check:</strong> 2025-12-27 | <strong>Authorized Personnel Only</strong></sub><br>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,FF0000,8A2BE2,00D1FF&height=140&section=footer&text=SECURE%20NODE%20-%20CH3SDA&fontSize=30&animation=fadeIn&fontAlignY=70" width="100%" />
+</p>

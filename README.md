@@ -1,135 +1,201 @@
-# 👋 Hi, I'm Hysavuth Chanchedsa!
+<!-- ======================= -->
+<!-- 🔥 HERO / INTRO SECTION -->
+<!-- ======================= -->
+<h1 align="center">⚡🕵️‍♂️ Hysavuth Chanchedsa 🕵️‍♂️⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZkb3Y5b2Zic3hrYzJwNW9vbjhkbGRvYWYybTAxaHg2d2Zud3RlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wnT3OOC1AWzMGKTr1I/giphy.gif" alt="Personalized GIF" style="max-width: 528px; height: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=520&lines=Cybersecurity+Engineer;Red+Predator;Red+Team+Enthusiast;Full-Stack+Developer;Network+Security+Engineer" />
 </p>
 
-I am currently an Information Technology Engineering student at the Royal University of Phnom Penh (RUPP), Cambodia. I am passionate about technology and constantly exploring various fields such as networking, programming, cloud computing, and cybersecurity.
+<p align="center">
+  <img src="https://media.giphy.com/media/wnT3OOC1AWzMGKTr1I/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-red?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌟 About Me 
+<!-- ======================= -->
+<!-- 🔥 RED TEAM BANNER -->
+<!-- ======================= -->
 
-- 🎓 Studying IT Engineering at **RUPP**, Cambodia.
-- 💻 Interested in **programming** and **cybersecurity**.
-- 🚀 Always eager to learn and collaborate on exciting tech projects.
+<h2 align="center">🩸 RED TEAM OPERATOR 🩸</h2>
 
----
-
-## 🏅 Certified & Badges
-
-Here are some of the certifications and badges I've earned:
 <div align="center">
+
+```text
+██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗
+██╔══██╗██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║
+██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+    [ Recon | Exploit | Persist | Evade | Report ]
+````
+</div>
+
+---
+
+<!-- ======================= -->
+
+<!-- 🏆 CERTIFICATIONS -->
+
+<!-- ======================= -->
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ch3sd4">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ch3sd4.png" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="75"/>
+  <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="75"/>
+  <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="75"/>
+  <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="75"/>
+</p>
+
+---
+
+## 👨‍💻 0x01 // ABOUT_ME
+
+```yaml
+identity:
+  name: Hysavuth Chanchedsa
+  alias: ch3sda
+  role: Cybersecurity Engineer & IT Student
+  university: Royal University of Phnom Penh (RUPP)
+  location: Phnom Penh, Cambodia 🇰🇭
+  focus:
+    - Penetration Testing
+    - Network & Cloud Security
+    - Malware Analysis
+    - Secure Application Development
+```
+
+* 🔭 Red Team & Blue Team hybrid mindset
+* 🎯 ISC2 Path: CC → SSCP → CISSP
+* 📫 Email: [officialchesdamc@gmail.com](mailto:officialchesdamc@gmail.com)
+
+---
+
+## 🛠️ 0x02 // CYBER_TOOLKIT
+
+### ⚔️ Security • Dev • Cloud • SIEM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,aws,docker,python,cpp,java,js,html,css,nuxt,git,github,githubactions,mysql,sqlite&theme=dark" />
+</p>
+
+
+---
+
+## 📡 0x03 // NETWORKING_&_OPERATIONS
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,burpsuite,wireshark,postman,bash,cloudflare&theme=dark" />
+</p>
+
+
+---
+
+## 🧬 0x04 // CTF_WRITEUPS
+
+**Platforms**
+
+* TryHackMe
+* Hack The Box
+* OWASP Juice Shop
+
+**Focus Areas**
+
+* SQL Injection (Boolean / Time-based)
+* IDOR & Broken Access Control
+* Linux Privilege Escalation
+* Active Directory Attacks
+
+```text
+[ Enumeration ]
+[ Vulnerability Discovery ]
+[ Exploitation ]
+[ Privilege Escalation ]
+[ Lessons Learned ]
+```
+
+---
+
+## 📂 0x05 // FEATURED_PROJECT
+
+### ⚙️ C2Toolkits Framework
+
+  <a href="https://github.com/ch3sda/c2toolkits">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ch3sda&repo=c2toolkits&theme=tokyonight" alt="C2Toolkits GitHub Stats" />
+  </a>
   
-  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ch3sd4.png)](https://tryhackme.com/p/ch3sd4)
-  
-</div>
-<div align="center">
+* Aggregates Nmap, Gobuster, Nikto, SQLMap
+* Normalizes outputs into structured data
+* Red Team & SOC–ready workflows
 
-  [![Networking Devices and Initial Configuration Badge](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/43ae4f47-b125-4822-a6b9-74509e9e21a2/public_url)
-  [![Introduction to Cybersecurity Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/2dedcb1d-dd71-4926-90a6-daa59ad36f68/public_url)
-  [![Basic Networking Badge](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/3d798795-98c6-4f2c-93ad-1b7c57b58a24/public_url)
-  [![AWS Fundamental Cloud Practitioner Badge](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/4dd8d013-e835-4a00-ab28-925a7fc6f75a/public_url)
-  [![OPSWAT ICIP](https://images.credly.com/size/110x110/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/6f0799e6-79da-41ce-b1e9-fb521c9a2040/public_url)
-  [![ISC2 - Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/4d356680-01ab-4ec3-94c1-e6ac32de3337/public_url)
-  [![Fortinet - Threat Landscape](https://images.credly.com/size/110x110/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob)](https://www.credly.com/badges/fc4753b3-66c8-41c5-9132-ee3c764af3f9/public_url)
-  [![Fortinet - Getting Start in Cybersecurity](https://images.credly.com/size/110x110/images/26c33174-9fee-4848-88c6-471807995417/blob)](https://www.credly.com/badges/51607ecb-2b7d-4a2b-a8f5-dc224add7b15/public_url)
-  [![Fortinet - Certified Fundamentals Cybersecurity](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/8bed669d-2b68-48d6-87c8-be570ccfcf11/public_url)
+---
 
-</div>
+## 🌐 0x06 // LIVE_DASHBOARD (C2TOOLKITS)
+
+> Real-time visualization & analysis of offensive security scans
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nuxt,tailwind,postgres,git,linux" />
+</p>
+
+**Capabilities**
+
+* Tool-aware views (Nmap, SQLMap, Gobuster)
+* Risk scoring & severity classification
+* Kill-chain timeline
+* SIEM / SOC-ready structured logs
+
+---
+
+## 📊 0x07 // GITHUB_STATS
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ch3sda&show_icons=true&theme=tokyonight&title_color=FF0000&icon_color=FF0000&text_color=c0caf5&bg_color=1a1b26&hide_border=true" 
+       width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ch3sda&layout=compact&theme=tokyonight&title_color=00D1FF&icon_color=00D1FF&text_color=c0caf5&bg_color=1a1b26&hide_border=true" 
+       width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ch3sda&theme=tokyonight&hide_border=true&background=1a1b26&fire=BF00FF&ring=BF00FF&currStreakLabel=BF00FF&currStreakNum=c0caf5&sideLabels=BF00FF&sideNums=c0caf5&stroke=BF00FF" 
+       width="97%" alt="GitHub Streak" />
+</p>
 
 
 ---
 
-## 🤝 Let's Connect
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ch3sda) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hysavuthchanchesda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hysavuthchanchesda/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chesdamc2ez) 
+## ⚙️ 0x08 // AUTO_UPDATING_METRICS
 
-I'm always open to discussing new ideas, sharing knowledge, and building amazing projects together!
-
----
-
-## ✨ Highlights
-
-- 🥇 **Certifications**: CCNA, AWS Cloud Practitioner
-- 🛠️ **Hackathons**: Participated in multiple regional hackathons with top placements.
-- 🌍 **Languages**: English, Khmer
-- 📝 **Blogs & Articles**: [Hashnode Profile](https://chesda.hashnode.dev/) - Sharing insights on tech, networking, and cybersecurity.
- 
----
-
-## 🌱 Fun Facts
-
-- 🧩 I love solving puzzles and playing chess in my free time.
-- 🦉 I'm night owl person.
-- 🕹️ I enjoy playing video games.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch3sda&bg_color=1a1b26&color=8A2BE2&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
+## 🤝 0x09 // CONNECT
 
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-1. **Document Tracking System**  
-   ![Document Tracking System](https://via.placeholder.com/250x150.png)  
-   Streamlines document management within organizations, ensuring efficient handling and storage.
-
-2. **School Billing Management System**  
-   ![School Billing System](https://via.placeholder.com/250x150.png)  
-   A comprehensive tool to manage school billing processes, from invoice generation to payment tracking.
-
-3. **Learning Management System (LMS)**  
-   ![Learning Management System](https://via.placeholder.com/250x150.png)  
-   An online platform to facilitate learning, offering features like course management, student tracking, and interactive learning.
-
-Check out these repositories for more details and visual demos!
-
----
-
-## 🛠️ Skills
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch3sda&theme=nightowl&hide_border=true" alt="Github Streak" width="48%">
-     <img src="https://github-readme-stats.vercel.app/api?username=ch3sda&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="48%"><br>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3sda&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" width="48%">
-     <img src="https://github-contributor-stats.vercel.app/api?username=ch3sda&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true" alt="Top Languages" width="48%">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ch3sda&theme=nightowl%&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 📈 Activity
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=ch3sda&theme=nightowl&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-officialchesdamc@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:officialchesdamc@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B855%2081%20808%20678-blue?style=for-the-badge)](tel:+85581808678)
-
-Feel free to connect with me if you have any questions or if you'd like to collaborate on a project!
-
----
-
-## 🖤 Thanks for Visiting!
-
-Thanks for visiting my profile! Don't forget to check out my repositories below.
-
-[![](https://visitcount.itsvg.in/api?id=ch3sda&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="50px">
-</div>
+<p align="center">
+  <a href="https://discord.gg/ch3sda">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/hysavuthchanchesda/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:officialchesdamc@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+```
